@@ -1,0 +1,5 @@
+MNT101,Monitor 27in QHD,50,150.00,200.00
+LAP203,Laptop Gaming Core i7,15,800.00,1200.00
+PRN305,Impresora Laser Mono,30,50.00,75.00
+AUD401,Auriculares Bluetooth,100,10.50,19.99
+TEC502,Teclado Mecanico RGB,25,35.00,55.50

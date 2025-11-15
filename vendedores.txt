@@ -1,0 +1,3 @@
+williamp,1234,William Pacalla
+admin,password,Administrador
+ventas,5678,Vendedor
